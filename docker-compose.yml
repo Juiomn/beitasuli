@@ -1,5 +1,5 @@
 services:
-  bertiov:
+  cuhullo:
     build: .
     shm_size: 2.6gb
     ports:
